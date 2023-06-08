@@ -1,2 +1,3 @@
 # Basic_Python_Assignment
-Enjoy
+Learn basics of Python and start your journey in coding.
+Happy Learning. :)
